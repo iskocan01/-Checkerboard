@@ -1,0 +1,10 @@
+C:\Users\iskocan\source\repos\btk\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\iskocan\source\repos\btk\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\iskocan\source\repos\btk\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\iskocan\source\repos\btk\RecapDemo\obj\Debug\RecapDemo.csprojAssemblyReference.cache
+C:\Users\iskocan\source\repos\btk\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+C:\Users\iskocan\source\repos\btk\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\iskocan\source\repos\btk\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+C:\Users\iskocan\source\repos\btk\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\iskocan\source\repos\btk\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\iskocan\source\repos\btk\RecapDemo\obj\Debug\RecapDemo.pdb
